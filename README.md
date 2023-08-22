@@ -11,7 +11,7 @@
 </a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-I'm a fresher Data Analyst | Business Intelligence. Im interested in learning new things and discovering the deeply stories behind data.
+I'm a fresher Data Analyst | Business Intelligence. I'm interested in learning new things and discovering the deeply stories behind data.
 
 ## Technical tools
 - Data Analysis: SQL, Python (NumPy, Pandas, Seaborn, Matplotlib)
