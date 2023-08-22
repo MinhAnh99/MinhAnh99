@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, Minh Anh here <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi there 👋, Minh Anh here 🌻 ✌️. <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 </a></h1>
 <!--
 **MinhAnh99/MinhAnh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,8 @@
 </a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-**SQL, Python, Power BI, Machine Learning** are the technical tools I am interested. I love to learn and build something new, productive, innovative and creative.
+I'm a fresher Data Analyst | Business Intelligence.
+**SQL, Python, Power BI, Machine Learning** are the technical tools I am interested. I love to learn and discover the deeply insights behind data.
 
 __Check out my GitHub repository:__
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99=github-readme-stats)](https://github.com/MinhAnh99/github-readme-stats)
