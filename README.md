@@ -24,7 +24,7 @@ __Check out my projects:__
 <a href="https://github.com/MinhAnh99/SQL_Explore_E-Commerce_Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99&repo=SQL_Explore_E-Commerce_Dataset&theme=solarized-light" />
-</a> 
+</a>
 
 <a href="https://github.com/MinhAnh99/Python_Cohort-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
