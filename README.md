@@ -11,8 +11,14 @@
 </a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-I'm a fresher Data Analyst | Business Intelligence.
-**SQL, Python, Power BI, Machine Learning** are the technical tools I am interested. I love to learn and discover the deeply insights behind data.
+I'm a fresher Data Analyst | Business Intelligence. Im interested in learning new things and discovering the deeply stories behind data.
+
+## Technical tools
+- Data Analysis: SQL, Python (NumPy, Pandas, Seaborn, Matplotlib)
+- Data Visualization: Power BI
+- Learning: Supervised Learning
+- Advanced Excel
+
 
 __Check out my projects:__
 <a href="https://github.com/MinhAnh99/SQL_Explore_E-Commerce_Dataset">
@@ -24,7 +30,11 @@ __Check out my projects:__
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99&repo=Python_Cohort-Analysis&theme=solarized-light" />
 </a> 
- 
+
+<a href="https://github.com/MinhAnh99/Python_RFM_Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99&repo=Python_RFM_Analysis&theme=solarized-light" />
+</a> 
 
 
 
