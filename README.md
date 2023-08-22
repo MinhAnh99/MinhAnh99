@@ -13,6 +13,8 @@
 
 __Check out my GitHub repository:__
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99=github-readme-stats)](https://github.com/MinhAnh99/github-readme-stats)
+
 
 
 
