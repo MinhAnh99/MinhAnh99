@@ -2,8 +2,7 @@
 <h1 align="center">Hi there 👋, Minh Anh here 🌻 ✌️. <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 </a></h1>
 <!--
-**MinhAnh99/MinhAnh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99=github-readme-stats)](https://github.com/MinhAnh99/github-readme-stats)
+**MinhAnh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <a target="_blank" align="center">
