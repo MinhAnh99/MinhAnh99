@@ -16,7 +16,7 @@ I'm a fresher Data Analyst | Business Intelligence. I'm interested in learning n
 ## Technical tools
 - Data Analysis: SQL, Python (NumPy, Pandas, Seaborn, Matplotlib)
 - Data Visualization: Power BI
-- Learning: Supervised Learning
+- Machine Learning: Supervised Learning
 - Advanced Excel
 
 
