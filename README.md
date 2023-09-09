@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi there 👋, Minh Anh here 🌻 ✌️. 
-</a>
-<!-
-**MinhAnh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 </h1>
 
 <a target="_blank" align="center">
