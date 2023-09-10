@@ -1,6 +1,4 @@
-
 <h1 align="center">Hi there 👋, Minh Anh here 🌻 ✌️. 
-
 </h1>
 
 <a target="_blank" align="center">
