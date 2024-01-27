@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 I graduated from Business Information Technology with statistical knowledge, critical thinking skills, and a passion for problem solving with data-driven methodologies.
 
-I am fascinated about discovering the stuff under data and analytics. With the primary goal of building a future profession in the Data Analysis / Business Intelligence field, but also striving to develop my abilities and get further knowledge of similar industries. According to my analysis, every opportunity has a difficulty, and every difficulty has an opportunity.
+I am fascinated with discovering new things using data and analytics. My main goal is to pursue a career in Data Analysis and Business Intelligence, while also expanding my knowledge of related areas.According to my analysis, every opportunity has a difficulty, and every difficulty has an opportunity.
 ## Technical tools
 - Data Analysis: SQL, Python (NumPy, Pandas, Seaborn, Matplotlib)
 - Data Visualization: Power BI
