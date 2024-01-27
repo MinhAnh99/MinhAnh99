@@ -6,7 +6,7 @@
 </a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-I'm a data learner and enthusiast who is greatly interested in the statistical analysis of data with a good foundation gained from practical projects using SQL Python, Power BI - among other tools, I'm looking for new opportunities to apply my skills and discover meaningful stories behind data.
+I graduated from Business Information Technology with statistical knowledge, critical thinking skills, and a passion for problem solving with data-driven methodologies.
 
 ## Technical tools
 - Data Analysis: SQL, Python (NumPy, Pandas, Seaborn, Matplotlib)
