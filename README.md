@@ -12,7 +12,7 @@ I am fascinated with discovering new things using data and analytics. My main go
 ## Technical tools
 - Data Analysis: SQL, Python (NumPy, Pandas, Seaborn, Matplotlib)
 - Data Visualization: Power BI
-- Machine Learning: Supervised Learning
+- Machine Learning (Supervised Learning)
 - Advanced Excel
 
 
