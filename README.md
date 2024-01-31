@@ -28,9 +28,9 @@ __Check out my projects:__
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99&repo=Python_RFM_Analysis&theme=solarized-light" />
 </a> 
 
-<a href="https://github.com/MinhAnh99/SQL_Explore_E-Commerce_Dataset">
+<a href="https://github.com/MinhAnh99/SQL_E-Commerce_Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99&repo=SQL_Explore_E-Commerce_Dataset&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhAnh99&repo=SQL_E-Commerce_Dataset&theme=solarized-light" />
 </a> 
 
 <a href="https://github.com/MinhAnh99/PBI_Superstore-Sales">
